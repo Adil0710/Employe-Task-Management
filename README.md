@@ -16,4 +16,4 @@ This Employee Task Management System is a web-based application developed in PHP
 
 1. Clone the repository to your local machine or server:
 
-  git clone https://github.com/Adil0710/Employee-Task-Management.git
+     git clone https://github.com/Adil0710/Employee-Task-Management.git
