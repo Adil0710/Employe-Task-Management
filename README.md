@@ -12,6 +12,12 @@ This Employee Task Management System is a web-based application developed in PHP
 - **Leave Approval/Rejection**: Administrators can review leave applications and approve or reject them.
 - **User Management**: Administrators have the ability to view all registered users and edit their details.
 
+## Screenshots
+![home](https://github.com/Adil0710/Employe-Task-Management/assets/91872021/c063a800-8d79-4b4a-996c-60bbdce31308)
+![admin](https://github.com/Adil0710/Employe-Task-Management/assets/91872021/e46d5a0f-9af8-454b-a478-613ecc64ac06)
+![user](https://github.com/Adil0710/Employe-Task-Management/assets/91872021/5f60ac78-6caf-4ee6-a10e-2ba8410c4967)
+
+
 ## Installation
 
 1. Clone the repository to your local machine or server:
