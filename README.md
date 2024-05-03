@@ -37,13 +37,13 @@ This Employee Task Management System is a web-based application developed in PHP
 
 ## Contributors
 
-- Your Name
+- [Adil Patel](https://github.com/Adil0710)
 - Contributor 1
 - Contributor 2
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 
 
