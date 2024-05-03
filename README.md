@@ -26,5 +26,25 @@ This Employee Task Management System is a web-based application developed in PHP
 5. Start your web server (e.g., Apache, Nginx) and MySQL service.
 6. Access the application through your web browser.
 
+## Usage
+
+- **Admin Login**: Access the admin panel using the provided admin credentials.
+- **User Registration**: New users can register with the system using the registration form.
+- **Task Management**: Admins can assign tasks to registered users and edit task details as necessary.
+- **Task Status Updates**: Users can update the status of their assigned tasks.
+- **Leave Management**: Users can apply for leave through the system, and admins can review and manage leave applications.
+- **User Management**: Admins can view all registered users and edit their details (e.g., username, email, permissions).
+
+## Contributors
+
+- Your Name
+- Contributor 1
+- Contributor 2
+
+## License
+
+This project is licensed under the MIT License.
+
+
 
 
